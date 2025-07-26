@@ -17,7 +17,7 @@ Design and implement a drone-based solution that:
 
 ---
 
-## 🔧 Features Implemented
+## 🔧 Features Implemented 
 
 ### 🧠 Autonomous Navigation
 - Developed a drone navigation algorithm with integrated **path planning** logic
